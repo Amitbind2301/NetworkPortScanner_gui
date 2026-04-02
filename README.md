@@ -22,8 +22,8 @@ No third-party packages are required.
 ## Installation
 
 ```bash
-git clone https://github.com/techtrainer20/nmap_portscan_gui.git
-cd nmap_portscan_gui
+git clone https://github.com/Amitbind2301/NetworkPortScanner_gui.git
+cd NetworkPortScanner_gui
 ```
 
 ## Usage
@@ -63,8 +63,8 @@ Ports not in the list are reported as `Unknown`.
 ## Project Structure
 
 ```
-nmap_portscan_gui/
-├── portscanergui.py   # Main application (scanner + GUI)
+NetworkPortScaner_gui/
+├── portscannergui.py   # Main application (scanner + GUI)
 └── README.md
 ```
 
